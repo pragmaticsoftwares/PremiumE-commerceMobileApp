@@ -1,0 +1,10 @@
+{
+  "description": "This premium e-commerce mobile app offers a seamless shopping experience for iOS and Android users, featuring intuitive navigation, personalized recommendations, and efficient checkout.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
